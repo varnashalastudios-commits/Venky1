@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dr. Sahithi &amp; Mani Krishna — Wedding Invitation</title>
+  <link rel="canonical" href="https://nandhavemishetty.github.io/sahithi-mani-wedding/" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+</head>
+<body>
+  <audio loop preload="none">
+    <source src="assets/pelli-pusthakam.mp3" type="audio/mpeg" />
+  </audio>
+
+  <section aria-label="Open invitation" role="button">
+    <div>S <span>&amp;</span> M</div>
+    <p>Tap to open</p>
+  </section>
+
+  <main hidden>
+    <section>
+      <p>|| Shree Ganeshaya Namaha ||</p>
+      <p>Together with their families</p>
+      <h1><span>Dr. Sahithi</span><small>with</small><span>Mani Krishna</span></h1>
+      <p>M.B.B.S. | MS (Australia), Software Engineer</p>
+      <img alt="Bride and groom in traditional Telugu wedding attire" src="assets/couple.png" />
+      <p>Sunday, 16 August 2026 · 10:45 AM</p>
+      <p>Hastha Nakshatram · Thula Lagnam</p>
+      <a href="#celebrations">View the festivities</a>
+    </section>
+
+    <section id="celebrations">
+      <h2>The Festivities</h2>
+      <div role="tablist" aria-label="Wedding events"></div>
+      <article aria-live="polite">
+        <span>Celebration 1</span>
+        <img alt="Haldi ceremony illustration" src="assets/haldi.png" />
+        <p>Friday, 14 August 2026</p>
+        <h3>Haldi Ceremony</h3>
+        <p>Time: 10:30 AM · Venue: Bride's House</p>
+      </article>
+    </section>
+
+    <section>
+      <h2>Whose side are you on?</h2>
+    </section>
+
+    <section>
+      <h2>Getting Married In</h2>
+      <div>
+        <div><strong>00</strong><span>Days</span></div>
+        <div><strong>00</strong><span>Hours</span></div>
+        <div><strong>00</strong><span>Minutes</span></div>
+        <div><strong>00</strong><span>Seconds</span></div>
+      </div>
+      <a href="#">Add wedding to calendar</a>
+    </section>
+
+    <section>
+      <h2>Kindly RSVP</h2>
+      <a href="https://www.google.com/maps/search/?api=1&amp;query=Nandana+A%2FC+Gardens%2C+Mahabubabad" target="_blank" rel="noopener">
+        Wedding location
+      </a>
+    </section>
+  </main>
+</body>
+</html>
